@@ -1,3 +1,4 @@
+# this is a test for Git using github
 # mouseCircle python code
 def setup():
     size(600,600)    # set canvas to 600x600
